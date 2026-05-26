@@ -2,14 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0E1128&height=220&section=header&text=Ariyan%20XRG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20|%20AI%20Automation%20|%20Unreal%20Dev&descAlignY=65&descSize=20&descGap=15" width="100%"/>
 </div>
 
-<div align="center">
-  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#0D1117"/>
-    <text x="50%" y="45%" font-family="Orbitron" font-size="64" fill="#D4AF37" text-anchor="middle" dominant-baseline="middle">ARIYAN XRG</text>
-    <text x="50%" y="70%" font-family="Orbitron" font-size="18" fill="#C0C0C0" text-anchor="middle" dominant-baseline="middle">Frontend | AI Automation | Unreal Dev</text>
-    <line x1="20%" y1="80%" x2="80%" y2="80%" stroke="#D4AF37" stroke-width="1" opacity="0.5"/>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=700&lines=✦+C%2B%2B+Architect+✦;✦+Unreal+Engine+Journey+✦;✦+AI+Automation+Craftsman+✦;✦+Pixel+Perfect+Frontend+✦" />
+</p>
 
 ---
 
