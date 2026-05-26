@@ -53,29 +53,6 @@
 
 ---
 
-## 📊 GitHub Status
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=ariyanxrg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=8E9EBB"
-/>
-
-<img
-  height="165"
-  src="https://streak-stats.demolab.com?user=ariyanxrg&hide_border=true&background=0D1117&ring=92FE9D&fire=00C9FF&currStreakLabel=92FE9D&sideLabels=8E9EBB&dates=5A6B8A&currStreakNum=FFFFFF&sideNums=FFFFFF"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanxrg&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=8E9EBB"
-/>
-
-</div>
-
----
-
 ## 🧬 **The Core Logic**
 
 ```cpp
