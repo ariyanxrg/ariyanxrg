@@ -1,89 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0E1128&height=200&section=header&text=Ariyan%20XRG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20|%20AI%20Automation%20|%20Unreal%20Dev&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00B4D8&height=220&section=header&text=Ariyan%20XRG&fontSize=75&fontColor=00B4D8&animation=fadeIn&fontAlignY=38&desc=✦%20AI%20Automation%20|%20C++%20|%20Unreal%20Engine%20✦&descAlignY=60&descSize=18&descColor=90E0EF"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=✦+C%2B%2B+Architect+✦;✦+Unreal+Engine+Journey+✦;✦+AI+Automation+Craftsman+✦;✦+Pixel+Perfect+Frontend+✦" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&duration=2000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A6+Frontend+Sorcerer+%E2%9C%A6;%E2%9C%A6+C%2B%2B+Architect+%E2%9C%A6;%E2%9C%A6+Unreal+Engine+Warrior+%E2%9C%A6;%E2%9C%A6+AI+Automation+God+%E2%9C%A6" />
 </p>
 
 ---
 
-## 🎯 **The Unfiltered Truth**
+### 🌊 **The Blue Navy Manifesto**
 
-> *"I don't just write code – I build systems that think, move, and feel alive."*
+```python
+#!/usr/bin/env python3
+# coding: naval-badass
 
-🔹 **Frontend**: I turn designs into **butter-smooth experiences** (HTML/CSS/JS – no framework BS unless needed)  
-🔹 **AI Automation**: I make bots that actually work – scraping, decision trees, LLM pipelines  
-🔹 **C++**: Because JavaScript can't handle real performance  
-🔹 **Unreal Engine**: Currently deep in **Blueprints → C++ transition**. Game mechanics, GAS, replication – I'm coming for it.
-
-> 🧠 **Mindset**: Automate everything. Optimize everything. Leave nothing boring.
-
----
-
-## ⚡ **Tech Arsenal**
-
-<div align="center">
-
-### 🎨 **Frontend Sorcery**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 **AI & Automation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### ⚙️ **Systems & Game Dev**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-
-</div>
-
----
-
-## 🚀 **What I'm Cooking Right Now**
-
-| Project | Vibe | Stack |
-|---------|------|-------|
-| **Unreal Commander** | Voice-controlled debug console for UE5 | C++, HTTP Server, SpeechRecog |
-| **VisionForge** | AI that watches your screen and auto-completes repetitive tasks | Python, OpenCV, YOLO |
-| **Portfolio OS** | Your browser turns into a fake operating system | HTML/CSS/JS, LocalStorage |
-| **Unreal FPS Template** | Custom movement + ability system | C++, UE5, GAS |
-
-> 💡 **Ask me about**: Automating your workflow, building interactive UIs, or Unreal C++ struggles 😅
-
----
-
-## 📊 **GitHub Pulse (No Fake Numbers)**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariyanxrg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F7FF&title_color=00F7FF&ring_color=00F7FF&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyanxrg&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=00F7FF" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanxrg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ABB2BF" width="45%" />
-</div>
-
----
-
-## 🧬 **The Core Logic**
-
-```cpp
-class AriyanXRG {
-public:
-    std::vector<std::string> skills = {"HTML/CSS/JS", "C++", "Python", "Unreal Engine"};
-    std::string motto = "Automate or die trying";
-    bool openForCollab = true;
-    
-    void build(std::string idea) {
-        if (idea.find("boring") != std::string::npos) {
-            std::cout << "Add AI + chaos + smooth UI" << std::endl;
-        } else {
-            std::cout << "Ship it with style" << std::endl;
+class AriyanXRG:
+    def __init__(self):
+        self.rank = "Deep Sea Developer"  # زیر آب، ولی دارک‌تر
+        self.arsenal = {
+            "Frontend": ["HTML5", "CSS3", "JS (Vanilla ❤️)"],
+            "AI_Fleet": ["Python", "OpenCV", "LangChain", "AutoGPT"],
+            "Heavy_Metal": ["C++", "Unreal Engine 5", "CMake"],
+            "Status": "⚡ C++ in Unreal – learning GAS & Replication"
         }
-    }
-};
+        self.motto = "Sink or build submarines. No floating."
+        
+    def deploy(self, target):
+        if target == "boring":
+            return "🧨 Torpedo that idea."
+        return "🚀 Launch with style, debug in silence."
+
+me = AriyanXRG()
+print(me.deploy("anything"))
