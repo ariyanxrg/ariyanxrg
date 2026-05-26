@@ -1,10 +1,5 @@
 <div align="center">
-  <div style="background: linear-gradient(145deg, #0A0A0F 0%, #111122 100%); padding: 70px 30px; border: none; box-shadow: 0 0 30px rgba(212, 175, 55, 0.2); animation: glow 3s infinite alternate;">
-    <h1 style="font-family: 'Arial Black', Impact, sans-serif; font-size: 90px; font-weight: 900; margin: 0; background: linear-gradient(135deg, #D4AF37, #FFD700); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 20px rgba(212,175,55,0.5); letter-spacing: 5px;">ARIYAN XRG</h1>
-    <div style="height: 3px; width: 100px; background: linear-gradient(90deg, #D4AF37, #FFD700, #D4AF37); margin: 25px auto; border-radius: 3px;"></div>
-    <p style="font-family: monospace; font-size: 22px; color: #C0C0C0; margin: 0; letter-spacing: 3px; word-spacing: 8px;">◢ FRONTEND ◣ &nbsp;&nbsp;|&nbsp;&nbsp; ◢ AI AUTOMATION ◣ &nbsp;&nbsp;|&nbsp;&nbsp; ◢ UNREAL DEV ◣</p>
-    <p style="font-family: monospace; font-size: 16px; color: #D4AF37; margin-top: 20px; opacity: 0.8; letter-spacing: 2px;">✦ C++ ARCHITECT ✦ &nbsp;&nbsp; ✦ AI CRAFTSMAN ✦ &nbsp;&nbsp; ✦ PIXEL PERFECT ✦</p>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D4AF37,100:0D1117&height=300&section=header&text=AriyanXRG&fontSize=85&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20AI%20Automation%20%7C%20Unreal%20Dev&descSize=22&descAlignY=60&descGap=15" width="100%"/>
 </div>
 
 <style>
