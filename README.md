@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 **GitHub Pulse (No Fake Numbers)**
+## 📊 **GitHub Pulse**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariyanxrg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F7FF&title_color=00F7FF&ring_color=00F7FF&include_all_commits=true&count_private=true" width="49%" />
