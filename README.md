@@ -1,34 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00B4D8&height=220&section=header&text=Ariyan%20XRG&fontSize=75&fontColor=00B4D8&animation=fadeIn&fontAlignY=38&desc=✦%20AI%20Automation%20|%20C++%20|%20Unreal%20Engine%20✦&descAlignY=60&descSize=18&descColor=90E0EF"/>
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:00F7FF,100:FF00FF&height=220&section=header&text=ARiYAN%20XRG&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=✦%20AI%20Automation%20|%20C++%20|%20Unreal%20Engine%20✦&descAlignY=70&descSize=22" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&duration=2000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A6+Frontend+Sorcerer+%E2%9C%A6;%E2%9C%A6+C%2B%2B+Architect+%E2%9C%A6;%E2%9C%A6+Unreal+Engine+Warrior+%E2%9C%A6;%E2%9C%A6+AI+Automation+God+%E2%9C%A6" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oxygen+Mono&weight=700&size=28&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+System+Status%3A+Hyperdrive+Active;%3E+Frontend+%2B+AI+%2B+Game+Dev+Triple+Threat;%3E+Building+The+Unreal+Automator;%3E+sudo+make+awesome" />
 </p>
 
 ---
 
-### 🌊 **The Blue Navy Manifesto**
+### 🧠 **Whoami**
 
-```python
-#!/usr/bin/env python3
-# coding: naval-badass
+```bash
+┌──(ariyan㉿xrg)-[~/dev]
+└─$ cat profile.txt
 
-class AriyanXRG:
-    def __init__(self):
-        self.rank = "Deep Sea Developer"  # زیر آب، ولی دارک‌تر
-        self.arsenal = {
-            "Frontend": ["HTML5", "CSS3", "JS (Vanilla ❤️)"],
-            "AI_Fleet": ["Python", "OpenCV", "LangChain", "AutoGPT"],
-            "Heavy_Metal": ["C++", "Unreal Engine 5", "CMake"],
-            "Status": "⚡ C++ in Unreal – learning GAS & Replication"
-        }
-        self.motto = "Sink or build submarines. No floating."
-        
-    def deploy(self, target):
-        if target == "boring":
-            return "🧨 Torpedo that idea."
-        return "🚀 Launch with style, debug in silence."
+[+] Name: Ariyan XRG
+[+] Title: Creative Automation Engineer / Frontend Sorcerer / Unreal Apprentice
+[+] Superpowers:
+    → HTML/CSS/JS – I make browsers cry tears of joy
+    → AI Automation – Bots that don't break, pipelines that don't sleep
+    → C++ – Because real men manage their own memory
+    → Unreal Engine 5 – Currently absorbing C++ Gameplay Ability System like a sponge
 
-me = AriyanXRG()
-print(me.deploy("anything"))
+[+] Motto: "If it's boring, I automate it. If it's static, I animate it. If it's impossible, I C++ it."
+
+└─$ 
