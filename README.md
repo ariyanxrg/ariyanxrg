@@ -56,12 +56,12 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariyanxrg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=D4AF37&title_color=D4AF37&text_color=C0C0C0" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ariyanxrg&theme=radical&hide_border=true&background=0D1117&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=C0C0C0&sideNums=C0C0C0&sideLabels=C0C0C0&dates=C0C0C0" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariyanxrg&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=D4AF37&title_color=D4AF37&text_color=8E9EBB&ring_color=D4AF37" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyanxrg&hide_border=true&background=0D1117&stroke=8E9EBB&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=8E9EBB&sideLabels=8E9EBB&dates=5A6B8A" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanxrg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C0C0C0" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanxrg&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=8E9EBB" width="40%" />
 </div>
 
 ---
