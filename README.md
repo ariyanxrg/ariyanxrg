@@ -1,16 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0D1117&height=300&section=header&text=AriyanXRG&fontSize=80&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20AI%20Automation%20%7C%20Unreal%20Dev&descSize=20&descAlignY=60&descGap=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=300&section=header&text=AriyanXRG&fontSize=80&fontColor=B6C8D9&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20AI%20Automation%20%7C%20Unreal%20Dev&descSize=20&descAlignY=60&descGap=15&descColor=B6C8D9" width="100%"/>
 </div>
-
-<style>
-  @keyframes glow {
-    0% { box-shadow: 0 0 20px rgba(212, 175, 55, 0.1); }
-    100% { box-shadow: 0 0 50px rgba(212, 175, 55, 0.4); }
-  }
-  div[align="center"] > div {
-    animation: glow 3s infinite alternate;
-  }
-</style>
 
 ---
 
