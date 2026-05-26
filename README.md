@@ -1,10 +1,5 @@
 <div align="center">
-  <div style="background: linear-gradient(135deg, #0D1117 0%, #1A1A2E 100%); padding: 60px 20px; border-radius: 20px; border-bottom: 3px solid #D4AF37; margin-bottom: 30px;">
-    <h1 style="font-family: 'Orbitron', monospace; font-size: 72px; font-weight: 900; margin: 0; color: #D4AF37; letter-spacing: 4px;">ARIYAN XRG</h1>
-    <div style="height: 4px; width: 80px; background: #D4AF37; margin: 20px auto; border-radius: 2px;"></div>
-    <p style="font-family: 'Courier New', monospace; font-size: 20px; color: #C0C0C0; margin: 0; letter-spacing: 2px;">FRONTEND | AI AUTOMATION | UNREAL DEV</p>
-    <p style="font-family: monospace; font-size: 14px; color: #D4AF37; margin-top: 20px; opacity: 0.7;">✦ C++ Architect ✦ Unreal Journey ✦ AI Craftsman ✦</p>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0D1117&height=250&section=header&text=ARIYAN%20XRG&fontSize=80&fontColor=D4AF37&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
 ---
