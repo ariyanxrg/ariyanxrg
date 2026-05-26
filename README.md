@@ -48,12 +48,12 @@
 
 | Project | Vibe | Stack |
 |---------|------|-------|
-| **Unreal Commander** | Voice-controlled debug console for UE5 | C++, HTTP Server, SpeechRecog |
-| **VisionForge** | AI that watches your screen and auto-completes repetitive tasks | Python, OpenCV, YOLO |
-| **Portfolio OS** | Your browser turns into a fake operating system | HTML/CSS/JS, LocalStorage |
-| **Unreal FPS Template** | Custom movement + ability system | C++, UE5, GAS |
+| **AI Workflow** | AI that watches your screen and auto-completes repetitive tasks | Python, OpenAI API, PyAutoGUI |
+| **Portfolio Website** | A clean personal website that shows my work and skills | HTML, CSS, JavaScript |
+| **AI Scraper** | Smart data collector that extracts info from any website automatically | Python, BeautifulSoup |
+| **Unreal Practice** | Learning Unreal Engine step by step – small levels and simple mechanics | C++, Unreal Engine 5 |
 
-> 💡 **Ask me about**: Automating your workflow, building interactive UIs, or Unreal C++ struggles 😅
+> 💡 **Ask me about**: AI automation, frontend development, or Unreal C++ struggles 😅
 
 ---
 
