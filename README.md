@@ -53,15 +53,41 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Status**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariyanxrg&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=D4AF37&title_color=D4AF37&text_color=8E9EBB&ring_color=D4AF37" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyanxrg&hide_border=true&background=0D1117&stroke=8E9EBB&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=8E9EBB&sideLabels=8E9EBB&dates=5A6B8A" width="45%" />
+
+<a href="https://github.com/ariyanxrg">
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ariyanxrg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=8E9EBB&ring_color=92FE9D" />
+</a>
+
+<a href="https://github.com/ariyanxrg">
+  <img height="170"
+    src="https://streak-stats.demolab.com?user=ariyanxrg&hide_border=true&background=0D1117&ring=92FE9D&fire=00C9FF&currStreakLabel=92FE9D&sideLabels=8E9EBB&dates=5A6B8A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanxrg&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=8E9EBB" width="40%" />
+
+<a href="https://github.com/ariyanxrg">
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanxrg&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=8E9EBB&langs_count=8" />
+</a>
+
+<a href="https://github.com/ariyanxrg">
+  <img height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ariyanxrg&theme=github_dark" />
+</a>
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ariyanxrg&label=Profile%20Views&color=00C9FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ariyanxrg?style=for-the-badge&color=92FE9D&labelColor=0D1117)
+
 </div>
 
 ---
