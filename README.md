@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&duration=2500&pause=500&color=D4AF37&center=true&vCenter=true&width=500&lines=Frontend+%7C+AI+%7C+C%2B%2B;Unreal+Engine+Apprentice;Builder.+Creator.+Automater." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=600&lines=➤+C%2B%2B+Architect;➤+Unreal+Engine+Journey;➤+AI+Automation+Craftsman;➤+Pixel+Perfect+Frontend" />
 </p>
 
 ---
