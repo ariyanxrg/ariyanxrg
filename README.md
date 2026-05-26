@@ -1,15 +1,89 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0E1128&height=200&section=header&text=Ariyan%20XRG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20|%20AI%20Automation%20|%20Unreal%20Dev&descAlignY=60&descSize=20" width="100%"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariyanxrg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariyanxrg) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ariyanxrg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ariyanxrg) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ariyanxrg&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ariyanxrg&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariyanxrg&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=✦+C%2B%2B+Architect+✦;✦+Unreal+Engine+Journey+✦;✦+AI+Automation+Craftsman+✦;✦+Pixel+Perfect+Frontend+✦" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ariyanxrg&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 **The Unfiltered Truth**
+
+> *"I don't just write code – I build systems that think, move, and feel alive."*
+
+🔹 **Frontend**: I turn designs into **butter-smooth experiences** (HTML/CSS/JS – no framework BS unless needed)  
+🔹 **AI Automation**: I make bots that actually work – scraping, decision trees, LLM pipelines  
+🔹 **C++**: Because JavaScript can't handle real performance  
+🔹 **Unreal Engine**: Currently deep in **Blueprints → C++ transition**. Game mechanics, GAS, replication – I'm coming for it.
+
+> 🧠 **Mindset**: Automate everything. Optimize everything. Leave nothing boring.
+
+---
+
+## ⚡ **Tech Arsenal**
+
+<div align="center">
+
+### 🎨 **Frontend Sorcery**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🤖 **AI & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### ⚙️ **Systems & Game Dev**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 **What I'm Cooking Right Now**
+
+| Project | Vibe | Stack |
+|---------|------|-------|
+| **Unreal Commander** | Voice-controlled debug console for UE5 | C++, HTTP Server, SpeechRecog |
+| **VisionForge** | AI that watches your screen and auto-completes repetitive tasks | Python, OpenCV, YOLO |
+| **Portfolio OS** | Your browser turns into a fake operating system | HTML/CSS/JS, LocalStorage |
+| **Unreal FPS Template** | Custom movement + ability system | C++, UE5, GAS |
+
+> 💡 **Ask me about**: Automating your workflow, building interactive UIs, or Unreal C++ struggles 😅
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ariyanxrg&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ariyanxrg&theme=vision-friendly-dark&hide_border=false" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ariyanxrg&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" />
+</div>
+
+---
+
+## 🧬 **The Core Logic**
+
+```cpp
+class AriyanXRG {
+public:
+    std::vector<std::string> skills = {"HTML/CSS/JS", "C++", "Python", "Unreal Engine"};
+    std::string motto = "Automate or die trying";
+    bool openForCollab = true;
+    
+    void build(std::string idea) {
+        if (idea.find("boring") != std::string::npos) {
+            std::cout << "Add AI + chaos + smooth UI" << std::endl;
+        } else {
+            std::cout << "Ship it with style" << std::endl;
+        }
+    }
+};
