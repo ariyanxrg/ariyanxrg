@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0E1128&height=220&section=header&text=Ariyan%20XRG&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20|%20AI%20Automation%20|%20Unreal%20Dev&descAlignY=65&descSize=20&descGap=15" width="100%"/>
+  <div style="background: linear-gradient(135deg, #0D1117 0%, #1A1A2E 100%); padding: 60px 20px; border-radius: 20px; border-bottom: 3px solid #D4AF37; margin-bottom: 30px;">
+    <h1 style="font-family: 'Orbitron', monospace; font-size: 72px; font-weight: 900; margin: 0; color: #D4AF37; letter-spacing: 4px;">ARIYAN XRG</h1>
+    <div style="height: 4px; width: 80px; background: #D4AF37; margin: 20px auto; border-radius: 2px;"></div>
+    <p style="font-family: 'Courier New', monospace; font-size: 20px; color: #C0C0C0; margin: 0; letter-spacing: 2px;">FRONTEND | AI AUTOMATION | UNREAL DEV</p>
+    <p style="font-family: monospace; font-size: 14px; color: #D4AF37; margin-top: 20px; opacity: 0.7;">✦ C++ Architect ✦ Unreal Journey ✦ AI Craftsman ✦</p>
+  </div>
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=700&lines=✦+C%2B%2B+Architect+✦;✦+Unreal+Engine+Journey+✦;✦+AI+Automation+Craftsman+✦;✦+Pixel+Perfect+Frontend+✦" />
-</p>
 
 ---
 
