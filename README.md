@@ -7,19 +7,11 @@
 
 
 <div align="center" dir="auto">
-<p dir="auto">
-
-<a href="https://twitter.com/YourUsername" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="max-width: 100%;"></a>
-
+<p dir="auto"><a href="https://twitter.com/YourUsername" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="max-width: 100%;"></a>
 &nbsp;
-
 <a href="https://github.com/ariyanxrg"><img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
-
 &nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=Profile%20Views" alt="Profile Views" style="max-width: 100%;">
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=Profile%20Views" alt="Profile Views" style="max-width: 100%;"></p>
 </div>
 
 ---
