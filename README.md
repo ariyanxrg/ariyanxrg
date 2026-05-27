@@ -1,35 +1,112 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6e4e156-ab2a-4a3f-8aa8-f4d2ec31d883" /><div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=300&section=header&text=AriyanXRG&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20AI%20Automation%20%7C%20Unreal%20Dev&descSize=20&descAlignY=60&descGap=15&descColor=CBD5E1"
     width="100%"
   />
 </div>
 
+
 <div align="center">
 
-<a href="https://x.com/YourUsername">
-  <img
-    src="https://img.shields.io/badge/𝕏%20@AriyanXRG-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111"
-    height="42"
-  />
+<style>
+.badges{
+  display:flex;
+  justify-content:center;
+  gap:22px;
+  flex-wrap:wrap;
+  margin-top:12px;
+}
+
+.badge3d{
+  display:flex;
+  align-items:center;
+  gap:18px;
+  min-width:280px;
+  padding:16px 28px;
+  border-radius:28px;
+  font-family:Inter,sans-serif;
+  font-weight:700;
+  font-size:24px;
+  color:white;
+  text-decoration:none;
+  box-shadow:
+    inset 0 2px 8px rgba(255,255,255,.08),
+    inset 0 -8px 20px rgba(0,0,0,.45),
+    0 10px 25px rgba(0,0,0,.35);
+  border:1px solid rgba(255,255,255,.12);
+  transition:.25s ease;
+}
+
+.badge3d:hover{
+  transform:translateY(-4px);
+}
+
+.iconbox{
+  width:64px;
+  height:64px;
+  border-radius:18px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:38px;
+  font-weight:900;
+  box-shadow:
+    inset 0 2px 8px rgba(255,255,255,.08),
+    inset 0 -8px 20px rgba(0,0,0,.45);
+}
+
+/* X */
+.x{
+  background:linear-gradient(145deg,#050505,#181818);
+}
+.x .iconbox{
+  background:linear-gradient(145deg,#111,#000);
+}
+
+/* GitHub */
+.github{
+  background:linear-gradient(145deg,#3f136d,#7c3aed);
+}
+.github .iconbox{
+  background:linear-gradient(145deg,#5b21b6,#2e1065);
+}
+
+/* Views */
+.views{
+  background:linear-gradient(145deg,#0f3cff,#1d4ed8);
+}
+.views .iconbox{
+  background:linear-gradient(145deg,#2563eb,#0f172a);
+}
+
+.small{
+  font-size:18px;
+  font-weight:600;
+  opacity:.95;
+}
+</style>
+
+<div class="badges">
+
+<a class="badge3d x" href="https://x.com/YourUsername">
+  <div class="iconbox">𝕏</div>
+  <div>@AriyanXRG</div>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/ariyanxrg">
-  <img
-    src="https://img.shields.io/badge/GitHub%20AriyanXRG-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
-    height="42"
-  />
+<a class="badge3d github" href="https://github.com/ariyanxrg">
+  <div class="iconbox">🐙</div>
+  <div>AriyanXRG</div>
 </a>
 
-&nbsp;&nbsp;
+<div class="badge3d views">
+  <div class="iconbox">👁</div>
+  <div>
+    1,337<br>
+    <span class="small">PROFILE VIEWS</span>
+  </div>
+</div>
 
-<img
-  src="https://img.shields.io/badge/Profile%20Views-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=1D4ED8"
-  height="42"
-/>
-
+</div>
 </div>
 
 
