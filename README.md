@@ -31,19 +31,23 @@
 
 ## ⚡ **Tech Arsenal**
 
-### 🎨 **Frontend Sorcery**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</div>
+
+### 🎨 **Frontend Sorcery**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 **AI & Automation**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,fastapi&theme=dark" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### ⚙️ **Systems & Game Dev**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,unreal,cmake&theme=dark" />
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
 </div>
 
 ---
