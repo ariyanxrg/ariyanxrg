@@ -14,9 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=ariyanxrg&label=Profile%20Views&labelColor=0c269c&color=0c269c&style=flat-square" alt="Profile Views" style="max-width: 100%; height: 24px;"></p>
 </div>
 
-
 ---
-
 
 ## 🎯 **The Unfiltered Truth**
 
