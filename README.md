@@ -6,13 +6,11 @@
 </div>
 
 
-<div align="center" dir="auto">
-<p dir="auto"><a href="https://twitter.com/YourUsername" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" style="max-width:100%;"></a>
+<a href="https://twitter.com/YourUsername" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=flat-square&logo=x&logoColor=white" alt="X" style="max-width: 100%;"></a>
 &nbsp;
-<a href="https://github.com/ariyanxrg"><img src="https://img.shields.io/badge/AriyanXrg-6a0dad.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width:100%;"></a>
+<a href="https://github.com/ariyanxrg"><img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=Profile%20Views" alt="Profile Views" style="max-width:100%;"></p>
-</div>
+<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=flat-square&label=Profile%20Views" alt="Profile Views" style="max-width: 100%;">
 
 
 ---
