@@ -4,6 +4,7 @@
     width="100%"
   />
 </div>
+----
 
 <div align="center">
 
@@ -14,12 +15,16 @@
   />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/ariyanxrg">
   <img
-    src="https://img.shields.io/badge/GitHub-AriyanXRG-1E293B?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/AriyanXRG-1E293B?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
+
+&nbsp;&nbsp;
 
 <img
   src="https://komarev.com/ghpvc/?username=ariyanxrg&style=for-the-badge&color=334155&label=PROFILE+VIEWS"
@@ -27,15 +32,6 @@
 />
 
 </div>
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=CBD5E1&center=true&vCenter=true&width=800&lines=Frontend+Developer;AI+Automation+Builder;Designing+ideas+into+real+products"
-/>
-
-</div>
-
 
 ---
 
