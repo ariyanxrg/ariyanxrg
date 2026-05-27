@@ -7,11 +7,11 @@
 
 
 <div align="center" dir="auto">
-<p dir="auto"><a href="https://twitter.com/YourUsername" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=flat-square&logo=x&logoColor=white" alt="X" style="max-width: 100%; height: 24px;"></a>
+<p dir="auto"><a href="https://twitter.com/ariyanxrg" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=flat-square&logo=x&logoColor=white" alt="X" style="max-width: 100%; height: 24px;"></a>
 &nbsp;
 <a href="https://github.com/ariyanxrg"><img src="https://img.shields.io/badge/AriyanXrg-39006e?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%; height: 24px;"></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ariyanxrg&label=Profile%20Views&labelColor=0c269c&color=1c1c1d&style=flat-square" alt="Profile Views" style="max-width: 100%; height: 24px;"></p>
+<img src="https://komarev.com/ghpvc/?username=ariyanxrg&label=Profile%20Views&labelColor=0c269c&color=0c269c&style=flat-square" alt="Profile Views" style="max-width: 100%; height: 24px;"></p>
 </div>
 
 ---
