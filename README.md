@@ -27,9 +27,7 @@
 
 > 🧠 **Mindset**: Automate everything. Optimize everything. Leave nothing boring.
 
-
 ---
-
 
 ## ⚡ **Tech Arsenal**
 
