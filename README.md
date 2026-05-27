@@ -8,19 +8,30 @@
 <div align="center">
 
 <a href="https://x.com/YourUsername">
-<img height="38"
-src="https://img.shields.io/badge/𝕏%20@AriyanXRG-111827?style=for-the-badge&logo=x&logoColor=white&labelColor=0F172A"/>
-</a>&nbsp;
+  <img
+    src="https://img.shields.io/badge/𝕏%20@AriyanXRG-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111"
+    height="42"
+  />
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/ariyanxrg">
-<img height="38"
-src="https://img.shields.io/badge/GitHub%20AriyanXRG-1E293B?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
-</a>&nbsp;
+  <img
+    src="https://img.shields.io/badge/GitHub%20AriyanXRG-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
+    height="42"
+  />
+</a>
 
-<img height="38"
-src="https://img.shields.io/badge/Profile%20Views-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/>
+&nbsp;&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Profile%20Views-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=1D4ED8"
+  height="42"
+/>
 
 </div>
+
 
 ---
 
