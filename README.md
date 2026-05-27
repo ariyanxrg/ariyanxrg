@@ -11,7 +11,7 @@
 &nbsp;
 <a href="https://github.com/ariyanxrg"><img src="https://img.shields.io/badge/AriyanXrg-39006e?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%; height: 24px;"></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=flat-square&label=Profile%20Views" alt="Profile Views" style="max-width: 100%; height: 24px;"></p>
+<img src="https://komarev.com/ghpvc/?username=ariyanxrg&label=Profile%20Views&color=1c1c1d&labelColor=0c269c&style=flat-square" alt="Profile Views" style="max-width: 100%; height: 24px;"></p>
 </div>
 
 ---
