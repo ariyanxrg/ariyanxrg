@@ -5,17 +5,17 @@
   />
 </div>
 
-<div align="center" dir="auto">
-  <p dir="auto">
+<div align="center">
+  <p align="center">
     <a href="https://twitter.com/ariyanxrg" rel="nofollow">
-      <img src="https://img.shields.io/badge/@AriyanXrg-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/@AriyanXrg-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/ariyanxrg">
-      <img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=Profile%20Views" alt="Profile Views" style="max-width: 100%;">
+    <img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=Profile%20Views" alt="Profile Views">
   </p>
 </div>
 
