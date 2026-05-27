@@ -7,7 +7,7 @@
 
 
 <div align="center" dir="auto">
-<p dir="auto"><a href="https://twitter.com/YourUsername" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=flat-square&logo=x&logoColor=white&scale=1.35" alt="X" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://twitter.com/YourUsername" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=flat-square&logo=x&logoColor=white&scale=1.35" alt="X" style="max-width: 100%; height:32px;"></a>
 &nbsp;
 <a href="https://github.com/ariyanxrg"><img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=flat-square&logo=github&logoColor=white&scale=1.35" alt="GitHub" style="max-width: 100%;"></a>
 &nbsp;
