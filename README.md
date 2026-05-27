@@ -5,6 +5,12 @@
   />
 </div>
 
+<p dir="auto"><a href="https://twitter.com/SepantaJS" rel="nofollow"><img src="https://camo.githubusercontent.com/8baad5ef832b32e7bcc50fbdecc467366076a56ba8ceb79d18e0493d7efd05b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f40536570616e74614a532d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d78266c6f676f436f6c6f723d7768697465" alt="X" data-canonical-src="https://img.shields.io/badge/@SepantaJS-000000?style=flat-square&amp;logo=x&amp;logoColor=white" style="max-width: 100%;"></a>
+&nbsp;
+<a href="https://github.com/SepJs"><img src="https://camo.githubusercontent.com/20c5df1e891a98414a4175c6599e1fcd8eef1f7f391afc6085f8fc1d5bfaf48f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5365704a732d3161303033303f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/SepJs-1a0030?style=flat-square&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dca376ddf012970c27346196cf218d66bbd8a889dbd171453dc4a2643e7f804/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5365704a7326636f6c6f723d366130646164267374796c653d666c61742d737175617265266c6162656c3d76697369746f7273"><img src="https://camo.githubusercontent.com/2dca376ddf012970c27346196cf218d66bbd8a889dbd171453dc4a2643e7f804/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5365704a7326636f6c6f723d366130646164267374796c653d666c61742d737175617265266c6162656c3d76697369746f7273" alt="Visitors" data-canonical-src="https://komarev.com/ghpvc/?username=SepJs&amp;color=6a0dad&amp;style=flat-square&amp;label=visitors" style="max-width: 100%;"></a></p>
+
 ---
 
 ## 🎯 **The Unfiltered Truth**
