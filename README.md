@@ -5,33 +5,24 @@
   />
 </div>
 
+
 <p align="center">
 
 <a href="https://x.com/YourUsername">
-  <img
-    src="https://img.shields.io/badge/@AriyanXRG-000000?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
-  />
+  <img src="https://img.shields.io/badge/@AriyanXRG-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/ariyanxrg">
-  <img
-    src="https://img.shields.io/badge/AriyanXRG-6D28D9?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/AriyanXRG-6A0DAD?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 &nbsp;
 
-<img
-  src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS"
-  alt="Visitors"
-/>
+<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563EB&style=flat-square&label=visitors" />
 
 </p>
-
 
 
 ---
