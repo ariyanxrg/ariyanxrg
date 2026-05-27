@@ -10,11 +10,11 @@
   <a href="https://twitter.com/YourUsername">
     <img src="https://img.shields.io/badge/@AriyanXrg-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;★&nbsp;
   <a href="https://github.com/ariyanxrg">
     <img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;★&nbsp;
   <img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=Profile%20Views">
 </div>
 
