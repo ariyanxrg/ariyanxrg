@@ -6,16 +6,16 @@
 </div>
 
 <div align="center">
-  <p align="center">
-    <a href="https://twitter.com/ariyanxrg" rel="nofollow">
-      <img src="https://img.shields.io/badge/@AriyanXrg-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  <p>
+    <a href="https://twitter.com/ariyanxrg">
+      <img src="https://img.shields.io/badge/@AriyanXrg-000000?style=flat-square&logo=x&logoColor=white&scale=1.5" alt="X">
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/ariyanxrg">
-      <img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/AriyanXrg-6a0dad?style=flat-square&logo=github&logoColor=white&scale=1.5" alt="GitHub">
     </a>
     &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=Profile%20Views" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=flat-square&label=Profile%20Views&scale=1.5" alt="Profile Views">
   </p>
 </div>
 
