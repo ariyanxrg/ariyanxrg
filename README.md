@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=300&section=header&text=AriyanXRG&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20AI%20Automation%20%7C%20Unreal%20Dev&descSize=20&descAlignY=60&descGap=15&descColor=CBD5E1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=300&section=header&text=AriyanXrg&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20AI%20Automation%20%7C%20Unreal%20Dev&descSize=20&descAlignY=60&descGap=15&descColor=CBD5E1"
     width="100%"
   />
 </div>
