@@ -5,19 +5,24 @@
   />
 </div>
 
-
 <div align="center" dir="auto">
 
 <p dir="auto">
+
 <a href="https://twitter.com/YourUsername" rel="nofollow">
-<img src="https://img.shields.io/badge/@AriyanXRG-000000?style=flat-square&logo=x&logoColor=white" alt="X" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/@AriyanXRG-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
+
 &nbsp;
+
 <a href="https://github.com/ariyanxrg">
-<img src="https://img.shields.io/badge/AriyanXRG-6a0dad?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/AriyanXRG-6a0dad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=flat-square&label=visitors" alt="Visitors" style="max-width: 100%;">
+
+<img src="https://komarev.com/ghpvc/?username=ariyanxrg&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </p>
 
 </div>
