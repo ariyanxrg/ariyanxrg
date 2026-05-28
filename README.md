@@ -52,7 +52,6 @@
 
 ---
 
-
 ## 🚀 **What I'm Cooking Right Now**
 
 | Project | Vibe | Stack |
