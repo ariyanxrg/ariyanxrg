@@ -50,9 +50,7 @@
 
 </div>
 
-
 ---
-
 
 ## 🚀 **What I'm Cooking Right Now**
 
@@ -65,9 +63,7 @@
 
 > 💡 **Ask me about**: AI automation, frontend development, or Unreal C++ struggles 😅
 
-
 ---
-
 
 ## 🧬 **The Core Logic**
 
