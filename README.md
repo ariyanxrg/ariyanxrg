@@ -65,7 +65,9 @@
 
 ---
 
+
 ## 🧬 **The Core Logic**
+
 
 ```cpp
 class AriyanXRG {
