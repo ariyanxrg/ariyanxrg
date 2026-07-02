@@ -1,85 +1,110 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=300&section=header&text=AriyanXrg&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20AI%20Automation%20•%20Unreal%20Dev&descSize=20&descAlignY=60&descGap=15&descColor=CBD5E1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=300&section=header&text=AriyanXRG&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Digital%20Marketer%20•%20Business%20Growth&descSize=20&descAlignY=60&descGap=15&descColor=CBD5E1"
     width="100%"
   />
 </div>
 
+<div align="center">
 
-<div align="center" dir="auto">
-<p dir="auto"><a href="https://twitter.com/ariyanxrg" rel="nofollow"><img src="https://img.shields.io/badge/@AriyanXrg-000000?style=flat-square&logo=x&logoColor=white" alt="X" style="max-width: 100%; height: 24px;"></a>
-&nbsp;
-<a href="https://github.com/ariyanxrg"><img src="https://img.shields.io/badge/AriyanXrg-39006e?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%; height: 24px;"></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ariyanxrg&label=Profile%20Views&labelColor=0c269c&color=0c269c&style=flat-square" alt="Profile Views" style="max-width: 100%; height: 24px;"></p>
+# Building Digital Products That Grow Businesses
+
+Frontend Developer • Digital Marketing • Business Growth
+
 </div>
 
 ---
 
-## 🎯 **The Unfiltered Truth**
+## 🚀 About Me
 
-> *"I don't just write code – I build systems that think, move, and feel alive."*
+I build websites, digital products, and growth-focused experiences.
 
-🔹 **Frontend**: I turn designs into **butter-smooth experiences** (HTML/CSS/JS – no framework BS unless needed)  
-🔹 **AI Automation**: I make bots that actually work – scraping, decision trees, LLM pipelines  
-🔹 **C++**: Because JavaScript can't handle real performance  
-🔹 **Unreal Engine**: Currently deep in **Blueprints → C++ transition**. Game mechanics, GAS, replication – I'm coming for it.
+My work sits at the intersection of:
 
-> 🧠 **Mindset**: Automate everything. Optimize everything. Leave nothing boring.
+🔹 Frontend Development  
+🔹 Digital Marketing  
+🔹 User Experience  
+🔹 Business Growth
+
+I don't just focus on writing code. I enjoy understanding how products work, how users think, and how digital systems can help businesses grow.
+
+My goal is simple:
+
+> Build products that look great, perform well, and create real value.
 
 ---
 
-## ⚡ **Tech Arsenal**
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🎨 **Frontend Sorcery**
+### 💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🤖 **AI & Automation**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### ⚙️ **Systems & Game Dev**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+### 📈 Digital & Growth
+![SEO](https://img.shields.io/badge/SEO-0F172A?style=for-the-badge)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-0F172A?style=for-the-badge)
+![Copywriting](https://img.shields.io/badge/Copywriting-0F172A?style=for-the-badge)
+![Growth Strategy](https://img.shields.io/badge/Growth%20Strategy-0F172A?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 **What I'm Cooking Right Now**
+## 🎯 What I'm Working On
 
-| Project | Vibe | Stack |
-|---------|------|-------|
-| **AI Workflow** | AI that watches your screen and auto-completes repetitive tasks | Python, OpenAI API, PyAutoGUI |
-| **Portfolio Website** | A clean personal website that shows my work and skills | HTML, CSS, JavaScript |
-| **AI Scraper** | Smart data collector that extracts info from any website automatically | Python, BeautifulSoup |
-| **Unreal Practice** | Learning Unreal Engine step by step – small levels and simple mechanics | C++, Unreal Engine 5 |
-
-> 💡 **Ask me about**: AI automation, frontend development, or Unreal C++ struggles 😅
+| Project | Goal |
+|---------|------|
+| Portfolio Website | Building my personal brand and showcasing projects |
+| Business Landing Pages | Creating high-converting digital experiences |
+| Frontend Projects | Improving performance and user experience |
+| Growth Systems | Exploring ways to combine technology and marketing |
 
 ---
 
-## 🧬 **The Core Logic**
+## 🧠 Core Philosophy
 
+> Technology is powerful.  
+> Marketing creates attention.  
+> Great products need both.
+
+---
+
+## 🧬 The Core Logic
 
 ```cpp
 class AriyanXRG {
 public:
-    std::vector<std::string> skills = {"HTML/CSS/JS", "C++", "Python", "Unreal Engine"};
-    std::string motto = "Automate or die trying";
-    bool openForCollab = true;
-    
-    void build(std::string idea) {
-        if (idea.find("boring") != std::string::npos) {
-            std::cout << "Add AI + chaos + smooth UI" << std::endl;
-        } else {
-            std::cout << "Ship it with style" << std::endl;
-        }
+    std::string role =
+        "Frontend Developer & Digital Marketer";
+
+    std::vector<std::string> focus = {
+        "Frontend Development",
+        "Digital Marketing",
+        "Business Growth",
+        "User Experience"
+    };
+
+    bool building = true;
+
+    void create(std::string idea) {
+        std::cout
+            << "Turn ideas into products. "
+            << "Turn products into growth."
+            << std::endl;
     }
 };
+```
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+Building. Learning. Growing.
+
+</div>
