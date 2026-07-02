@@ -52,18 +52,6 @@ My goal is simple:
 
 </div>
 
----
-
-## 🎯 What I'm Working On
-
-| Project | Goal |
-|---------|------|
-| Portfolio Website | Building my personal brand and showcasing projects |
-| Business Landing Pages | Creating high-converting digital experiences |
-| Frontend Projects | Improving performance and user experience |
-| Growth Systems | Exploring ways to combine technology and marketing |
-
----
 
 ## 🧠 Core Philosophy
 
